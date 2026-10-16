@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kursisi.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd77d37e2feef7f6e53f756322a749739372782b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2ec88f479bdeb99325cbe62cb6f44a4afacfa9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kursisi.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kursisi.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
