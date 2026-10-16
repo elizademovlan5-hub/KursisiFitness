@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Kursisi.Domain/1.0.0": {
+        "runtime": {
+          "Kursisi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kursisi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

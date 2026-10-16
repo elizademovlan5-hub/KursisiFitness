@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Kursisi.API/Kursisi.API.csproj" />
+    <Project Path="src/Kursisi.Application/Kursisi.Application.csproj" />
+    <Project Path="src/Kursisi.Domain/Kursisi.Domain.csproj" />
+    <Project Path="src/Kursisi.Infrastructure/Kursisi.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Kursisi.Tests/Kursisi.Tests.csproj" />
+  </Folder>
+</Solution>
